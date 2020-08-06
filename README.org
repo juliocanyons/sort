@@ -1,0 +1,9 @@
+# sort
+
+* Sort
+
+Sort data, into ascending order unsing the selection sort algorithm
+
+** Use
+
+Enter the data in a file
